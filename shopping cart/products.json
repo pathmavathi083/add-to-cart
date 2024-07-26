@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" BLUE LUXURY CHAIR",
+        "price": 200,
+        "image": "image/BLUE ARMCHAIR.jpg"
+    },
+    {
+        "id": 2,
+        "name":" RED ARMCHAIR",
+        "price": 250,
+        "image": "image/RED KING.jpg"
+    },
+    {
+        "id": 3,
+        "name":" WING CHAIR",
+        "price": 290,
+        "image": "image/WINGCHAIR.jpg"
+    },
+    {
+        "id": 4,
+        "name":" COMPANY ARMCHAIR",
+        "price": 200,
+        "image": "image/COMPANY ARMCHAIR.jpg"
+    },
+    {
+        "id": 5,
+        "name":" BENZ STYLE ARMCHAIR",
+        "price": 300,
+        "image": "image/BENZ STYLE ARMCHAIR.jpg"
+    },
+    {
+        "id": 6,
+        "name":" PUMPKIN CHAIR",
+        "price": 200,
+        "image": "image/PUMPKIN CHAIR.jpg"
+    },
+    {
+        "id": 7,
+        "name":" ELEGANT CHAIR",
+        "price": 200,
+        "image": "image/ELEGANT CHAIR.jpg"
+    },
+    {
+        "id": 8,
+        "name":" SPOON HIGH CHAIR",
+        "price": 200,
+        "image": "image/SPOON HIGH CHAIR.jpg"
+    }
+
+]
